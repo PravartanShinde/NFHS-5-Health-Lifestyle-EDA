@@ -135,7 +135,7 @@ An interactive, two-page Power BI dashboard built on the cleaned NFHS-5 data. Bo
 
 ![Nutrition Page](dashboard/nutrition_page.png)
 
-![Lifestyle Page](dashboard/lifestyle_page.png)
+![Lifestyle Page](dashboard/Lifestyle_page.png)
 
 > **To explore it:** download `dashboard/NFHS-5_Dashboard.pbix` and open it in **Power BI Desktop**.
 
